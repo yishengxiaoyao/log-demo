@@ -10,7 +10,6 @@
 
     <name>log-demo</name>
     <description>log-demo</description>
-    <url>https://github.com/kdeng/log-demo</url>
 
     <properties>
         <java.version>1.8</java.version>
